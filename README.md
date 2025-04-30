@@ -6,6 +6,8 @@ I'm currently trying to find my way through this complicated world.
 
 I'm currently learning about PostgreSQL and system management.
 
+This page is a work in progress while I figure out what I want to do with it
+
 <!--
 **Anankin12/Anankin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
