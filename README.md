@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a Data Science & AI student at Univeristy of Trieste with a background in Physics and a keen interest in anything tech related.  
+
+I'm currently trying to find my way through this complicated world.  
+
+I'm currently learning about PostgreSQL and system management.
+
 <!--
 **Anankin12/Anankin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
